@@ -1,0 +1,8 @@
+.Palette {
+    height: 100vh;
+}
+
+.Palette-colors {
+    /* 90% of its parents, which is 90% of 100vh */
+    height: 90%; 
+}
